@@ -1,0 +1,5 @@
+*.gch
+CMakeCache.txt
+CMakeFiles
+*.cmake
+Makefile
