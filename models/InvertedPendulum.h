@@ -3,7 +3,7 @@
 
 #include "BlackBox.h"
 
-public class InvertedPendulum : public BlackBox<double, double>{
+class InvertedPendulum : public BlackBox<double, double>{
     // length = meters, mass = Kg
     InvertedPendulum(double length, double mass);
 
